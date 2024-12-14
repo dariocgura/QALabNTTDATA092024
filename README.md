@@ -1,0 +1,2 @@
+# QALabNTTDATA092024
+NTT Project Git
